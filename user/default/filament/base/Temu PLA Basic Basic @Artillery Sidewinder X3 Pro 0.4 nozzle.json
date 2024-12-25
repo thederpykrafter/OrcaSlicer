@@ -42,7 +42,7 @@
         "35"
     ],
     "default_filament_colour": [
-        "#000000"
+        "#FFFFFF"
     ],
     "dont_slow_down_outer_wall": [
         "0"
@@ -96,9 +96,9 @@
         "; filament end gcode \n"
     ],
     "filament_flow_ratio": [
-        "1.0133"
+        "0.9726"
     ],
-    "filament_id": "P8f9c84b",
+    "filament_id": "P02a9049",
     "filament_is_support": [
         "0"
     ],
@@ -163,7 +163,7 @@
         "40"
     ],
     "filament_settings_id": [
-        "BQ PLA Basic Basic @Artillery Sidewinder X3 Pro 0.4 nozzle"
+        "Temu PLA Basic Basic @Artillery Sidewinder X3 Pro 0.4 nozzle"
     ],
     "filament_shrink": [
         "100%"
@@ -196,7 +196,7 @@
         "100"
     ],
     "filament_vendor": [
-        "BQ"
+        "Temu"
     ],
     "filament_wipe": [
         "nil"
@@ -225,7 +225,7 @@
     ],
     "inherits": "",
     "is_custom_defined": "0",
-    "name": "BQ PLA Basic Basic @Artillery Sidewinder X3 Pro 0.4 nozzle",
+    "name": "Temu PLA Basic Basic @Artillery Sidewinder X3 Pro 0.4 nozzle",
     "nozzle_temperature": [
         "210"
     ],
