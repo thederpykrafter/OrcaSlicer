@@ -2,3 +2,7 @@ cache/
 log/
 ota/
 
+system/Custom/process
+system/Custom/machine
+system/Custom/filament
+system/Custom.json
